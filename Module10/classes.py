@@ -1,4 +1,4 @@
-#MODULE 9 OF 30 Days of python programming 
+#MODULE 10 OF 30 Days of python programming 
 # Exercises: Level 1
 class Statistics:
     def __init__(self, data):
